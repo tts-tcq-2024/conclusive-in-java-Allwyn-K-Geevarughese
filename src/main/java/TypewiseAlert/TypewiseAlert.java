@@ -2,7 +2,7 @@ package TypewiseAlert;
 
 import TypewiseAlert.BreachClassifier.BreachType;
 import TypewiseAlert.BreachClassifier.CoolingType;
-import TypewiseAlert.AlertSender.AlertTarget;
+import TypewiseAlert.AlertSender.AlertTarget; 
 
 public class TypewiseAlert {
  
