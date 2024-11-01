@@ -8,7 +8,7 @@ public class TypewiseAlert {
 
     public static class BatteryCharacter {
         private final CoolingType coolingType;
-        private final String brand;
+        private final String brand; 
 
         public BatteryCharacter(CoolingType coolingType, String brand) {
             this.coolingType = coolingType;
