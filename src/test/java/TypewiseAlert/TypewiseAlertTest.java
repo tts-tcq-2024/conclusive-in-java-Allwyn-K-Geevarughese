@@ -2,7 +2,7 @@ package TypewiseAlert;
 
 import static org.junit.Assert.*;
 import org.junit.Test;
-import TypewiseAlert.BreachClassifier.BreachType;
+import TypewiseAlert.BreachClassifier.BreachType; 
 import TypewiseAlert.BreachClassifier.CoolingType;
 import TypewiseAlert.AlertSender.AlertTarget;
 import TypewiseAlert.TypewiseAlert.BatteryCharacter;
