@@ -5,7 +5,7 @@ import TypewiseAlert.BreachClassifier.CoolingType;
 import TypewiseAlert.AlertSender.AlertTarget;
 
 public class TypewiseAlert {
-
+ 
     public static class BatteryCharacter {
         private final CoolingType coolingType;
         private final String brand; 
