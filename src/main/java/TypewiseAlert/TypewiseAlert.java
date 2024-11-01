@@ -4,7 +4,7 @@ import TypewiseAlert.BreachClassifier.BreachType;
 import TypewiseAlert.BreachClassifier.CoolingType;
 import TypewiseAlert.AlertSender.AlertTarget;
 
-public class TypewiseAlert {
+public class TypewiseAlert { 
 
     // Represents the battery with cooling type and brand
     public static class BatteryCharacter {
